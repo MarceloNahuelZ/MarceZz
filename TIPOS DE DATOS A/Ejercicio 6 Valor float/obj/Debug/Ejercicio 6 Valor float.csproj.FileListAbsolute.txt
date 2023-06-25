@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\bin\Debug\Ejercicio 6 Valor float.exe.config
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\bin\Debug\Ejercicio 6 Valor float.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\bin\Debug\Ejercicio 6 Valor float.pdb
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\obj\Debug\Ejercicio 6 Valor float.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\obj\Debug\Ejercicio 6 Valor float.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\obj\Debug\Ejercicio 6 Valor float.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\obj\Debug\Ejercicio 6 Valor float.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Valor float\obj\Debug\Ejercicio 6 Valor float.pdb

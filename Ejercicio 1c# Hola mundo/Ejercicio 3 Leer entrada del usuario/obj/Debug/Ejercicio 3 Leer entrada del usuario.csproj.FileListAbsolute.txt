@@ -1,0 +1,8 @@
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\bin\Debug\Ejercicio 3 Leer entrada del usuario.exe.config
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\bin\Debug\Ejercicio 3 Leer entrada del usuario.exe
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\bin\Debug\Ejercicio 3 Leer entrada del usuario.pdb
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\obj\Debug\Ejercicio 3 Leer entrada del usuario.csproj.AssemblyReference.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\obj\Debug\Ejercicio 3 Leer entrada del usuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\obj\Debug\Ejercicio 3 Leer entrada del usuario.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\obj\Debug\Ejercicio 3 Leer entrada del usuario.exe
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 3 Leer entrada del usuario\obj\Debug\Ejercicio 3 Leer entrada del usuario.pdb

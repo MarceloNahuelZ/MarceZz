@@ -1,0 +1,8 @@
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\bin\Debug\Ejercicio 1c# Hola mundo.exe.config
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\bin\Debug\Ejercicio 1c# Hola mundo.exe
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\bin\Debug\Ejercicio 1c# Hola mundo.pdb
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\obj\Debug\Ejercicio 1c# Hola mundo.csproj.AssemblyReference.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\obj\Debug\Ejercicio 1c# Hola mundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\obj\Debug\Ejercicio 1c# Hola mundo.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\obj\Debug\Ejercicio 1c# Hola mundo.exe
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio 1c# Hola mundo\obj\Debug\Ejercicio 1c# Hola mundo.pdb

@@ -1,0 +1,8 @@
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\bin\Debug\Ejercicio n2 c# imprimir lineas en consola.exe.config
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\bin\Debug\Ejercicio n2 c# imprimir lineas en consola.exe
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\bin\Debug\Ejercicio n2 c# imprimir lineas en consola.pdb
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\obj\Debug\Ejercicio n2 c# imprimir lineas en consola.csproj.AssemblyReference.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\obj\Debug\Ejercicio n2 c# imprimir lineas en consola.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\obj\Debug\Ejercicio n2 c# imprimir lineas en consola.csproj.CoreCompileInputs.cache
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\obj\Debug\Ejercicio n2 c# imprimir lineas en consola.exe
+C:\Users\Marce\Source\Repos\MarceZz\Ejercicio 1c# Hola mundo\Ejercicio n2 c# imprimir lineas en consola\obj\Debug\Ejercicio n2 c# imprimir lineas en consola.pdb

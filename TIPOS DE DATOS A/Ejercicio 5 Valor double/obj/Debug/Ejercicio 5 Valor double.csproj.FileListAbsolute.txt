@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\bin\Debug\Ejercicio 5 Valor double.exe.config
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\bin\Debug\Ejercicio 5 Valor double.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\bin\Debug\Ejercicio 5 Valor double.pdb
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\obj\Debug\Ejercicio 5 Valor double.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\obj\Debug\Ejercicio 5 Valor double.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\obj\Debug\Ejercicio 5 Valor double.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\obj\Debug\Ejercicio 5 Valor double.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 5 Valor double\obj\Debug\Ejercicio 5 Valor double.pdb

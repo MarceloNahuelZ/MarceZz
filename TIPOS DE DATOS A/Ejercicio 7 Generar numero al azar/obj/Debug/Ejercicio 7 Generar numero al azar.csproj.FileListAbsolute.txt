@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\bin\Debug\Ejercicio 7 Generar numero al azar.exe.config
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\bin\Debug\Ejercicio 7 Generar numero al azar.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\bin\Debug\Ejercicio 7 Generar numero al azar.pdb
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\obj\Debug\Ejercicio 7 Generar numero al azar.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\obj\Debug\Ejercicio 7 Generar numero al azar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\obj\Debug\Ejercicio 7 Generar numero al azar.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\obj\Debug\Ejercicio 7 Generar numero al azar.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 7 Generar numero al azar\obj\Debug\Ejercicio 7 Generar numero al azar.pdb

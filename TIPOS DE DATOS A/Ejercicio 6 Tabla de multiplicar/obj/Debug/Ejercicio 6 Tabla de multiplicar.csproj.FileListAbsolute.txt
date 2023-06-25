@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\bin\Debug\Ejercicio 6 Tabla de multiplicar.exe.config
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\bin\Debug\Ejercicio 6 Tabla de multiplicar.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\bin\Debug\Ejercicio 6 Tabla de multiplicar.pdb
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\obj\Debug\Ejercicio 6 Tabla de multiplicar.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\obj\Debug\Ejercicio 6 Tabla de multiplicar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\obj\Debug\Ejercicio 6 Tabla de multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\obj\Debug\Ejercicio 6 Tabla de multiplicar.exe
+C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 6 Tabla de multiplicar\obj\Debug\Ejercicio 6 Tabla de multiplicar.pdb
