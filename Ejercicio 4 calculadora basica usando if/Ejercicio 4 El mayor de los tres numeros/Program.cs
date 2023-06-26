@@ -26,18 +26,18 @@ namespace Ejercicio_4_El_mayor_de_los_tres_numeros
             Console.WriteLine("Ingrese el tercer numero: ");
             int z = Convert.ToInt32(Console.ReadLine());
 
-            if (x > y || y > z)
+            if (x > y && y > z)
             {
                 Console.WriteLine("El mayor de los 3 es: " + x);
             }
-            else if (y > x || y > z)
+            else if (y > x && y > z)
             {
                 Console.WriteLine("El mayor de los 3 es: " + y);
             }
-            else if (z > x || z > y)
+            else if (z > x && z > y)
             {
 
-                Console.WriteLine("El mayor de los 3 es:" + z);
+                Console.WriteLine("El mayor de los 3 es: " + z);
             }else
             {
                 Console.WriteLine("son todos iguales ");
