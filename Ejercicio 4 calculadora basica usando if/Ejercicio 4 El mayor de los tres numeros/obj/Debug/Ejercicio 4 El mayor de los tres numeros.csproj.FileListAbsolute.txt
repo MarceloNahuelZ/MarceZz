@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\obj\Debug\Ejercicio 4 El mayor de los tres numeros.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\obj\Debug\Ejercicio 4 El mayor de los tres numeros.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\obj\Debug\Ejercicio 4 El mayor de los tres numeros.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\bin\Debug\Ejercicio 4 El mayor de los tres numeros.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\bin\Debug\Ejercicio 4 El mayor de los tres numeros.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\bin\Debug\Ejercicio 4 El mayor de los tres numeros.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\obj\Debug\Ejercicio 4 El mayor de los tres numeros.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 El mayor de los tres numeros\obj\Debug\Ejercicio 4 El mayor de los tres numeros.pdb

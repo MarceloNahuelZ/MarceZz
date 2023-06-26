@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\bin\Debug\Ejercicio 5 Media aritmetica.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\bin\Debug\Ejercicio 5 Media aritmetica.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\bin\Debug\Ejercicio 5 Media aritmetica.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\obj\Debug\Ejercicio 5 Media aritmetica.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\obj\Debug\Ejercicio 5 Media aritmetica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\obj\Debug\Ejercicio 5 Media aritmetica.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\obj\Debug\Ejercicio 5 Media aritmetica.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 5 Media aritmetica\obj\Debug\Ejercicio 5 Media aritmetica.pdb

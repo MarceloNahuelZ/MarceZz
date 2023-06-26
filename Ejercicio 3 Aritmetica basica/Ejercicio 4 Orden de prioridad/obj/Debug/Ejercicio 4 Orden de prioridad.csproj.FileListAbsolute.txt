@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\bin\Debug\Ejercicio 4 Orden de prioridad.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\bin\Debug\Ejercicio 4 Orden de prioridad.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\bin\Debug\Ejercicio 4 Orden de prioridad.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\obj\Debug\Ejercicio 4 Orden de prioridad.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\obj\Debug\Ejercicio 4 Orden de prioridad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\obj\Debug\Ejercicio 4 Orden de prioridad.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\obj\Debug\Ejercicio 4 Orden de prioridad.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 4 Orden de prioridad\obj\Debug\Ejercicio 4 Orden de prioridad.pdb

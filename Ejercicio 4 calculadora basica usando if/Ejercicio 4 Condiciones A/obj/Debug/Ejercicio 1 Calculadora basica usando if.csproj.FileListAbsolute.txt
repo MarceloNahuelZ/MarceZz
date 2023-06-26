@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\bin\Debug\Ejercicio 4 Condiciones A.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\bin\Debug\Ejercicio 4 Condiciones A.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\bin\Debug\Ejercicio 4 Condiciones A.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\obj\Debug\Ejercicio 1 Calculadora basica usando if.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\obj\Debug\Ejercicio 1 Calculadora basica usando if.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\obj\Debug\Ejercicio 1 Calculadora basica usando if.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\obj\Debug\Ejercicio 4 Condiciones A.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 4 Condiciones A\obj\Debug\Ejercicio 4 Condiciones A.pdb

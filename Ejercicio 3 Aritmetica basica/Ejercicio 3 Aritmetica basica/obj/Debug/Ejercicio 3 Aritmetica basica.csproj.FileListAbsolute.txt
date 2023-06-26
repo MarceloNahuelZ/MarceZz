@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\obj\Debug\Ejercicio 3 Aritmetica basica.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\obj\Debug\Ejercicio 3 Aritmetica basica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\obj\Debug\Ejercicio 3 Aritmetica basica.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\bin\Debug\Ejercicio 3 Aritmetica basica.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\bin\Debug\Ejercicio 3 Aritmetica basica.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\bin\Debug\Ejercicio 3 Aritmetica basica.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\obj\Debug\Ejercicio 3 Aritmetica basica.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Aritmetica basica\obj\Debug\Ejercicio 3 Aritmetica basica.pdb

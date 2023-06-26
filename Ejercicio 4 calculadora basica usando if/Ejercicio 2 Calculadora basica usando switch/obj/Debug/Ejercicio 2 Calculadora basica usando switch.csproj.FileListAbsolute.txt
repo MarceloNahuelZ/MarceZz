@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\bin\Debug\Ejercicio 2 Calculadora basica usando switch.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\bin\Debug\Ejercicio 2 Calculadora basica usando switch.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\bin\Debug\Ejercicio 2 Calculadora basica usando switch.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\obj\Debug\Ejercicio 2 Calculadora basica usando switch.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\obj\Debug\Ejercicio 2 Calculadora basica usando switch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\obj\Debug\Ejercicio 2 Calculadora basica usando switch.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\obj\Debug\Ejercicio 2 Calculadora basica usando switch.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 2 Calculadora basica usando switch\obj\Debug\Ejercicio 2 Calculadora basica usando switch.pdb

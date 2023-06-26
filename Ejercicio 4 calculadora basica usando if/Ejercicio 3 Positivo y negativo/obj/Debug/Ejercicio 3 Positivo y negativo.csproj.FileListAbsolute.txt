@@ -1,0 +1,8 @@
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\bin\Debug\Ejercicio 3 Positivo y negativo.exe.config
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\bin\Debug\Ejercicio 3 Positivo y negativo.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\bin\Debug\Ejercicio 3 Positivo y negativo.pdb
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\obj\Debug\Ejercicio 3 Positivo y negativo.csproj.AssemblyReference.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\obj\Debug\Ejercicio 3 Positivo y negativo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\obj\Debug\Ejercicio 3 Positivo y negativo.csproj.CoreCompileInputs.cache
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\obj\Debug\Ejercicio 3 Positivo y negativo.exe
+C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 4 calculadora basica usando if\Ejercicio 3 Positivo y negativo\obj\Debug\Ejercicio 3 Positivo y negativo.pdb
