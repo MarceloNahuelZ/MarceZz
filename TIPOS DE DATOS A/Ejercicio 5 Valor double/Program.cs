@@ -20,8 +20,6 @@ namespace Ejercicio_5_Valor_double
         static void Main(string[] args)
         {
 
-
-
             Console.WriteLine("Ingrese el ancho a calcular: ");
             double x = Convert.ToDouble(Console.ReadLine());
 
