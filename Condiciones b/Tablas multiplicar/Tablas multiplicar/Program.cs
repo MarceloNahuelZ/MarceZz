@@ -29,7 +29,8 @@ namespace Tablas_multiplicar
                 }
                 Console.WriteLine();
             }
-           
+                Console.ReadKey();
+
             }
         }
     }

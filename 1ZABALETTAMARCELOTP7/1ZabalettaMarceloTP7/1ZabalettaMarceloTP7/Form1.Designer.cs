@@ -169,6 +169,7 @@
             this.label1.Size = new System.Drawing.Size(379, 58);
             this.label1.TabIndex = 4;
             this.label1.Text = "DATOS EMPLEADOS";
+            
             // 
             // Form1
             // 
