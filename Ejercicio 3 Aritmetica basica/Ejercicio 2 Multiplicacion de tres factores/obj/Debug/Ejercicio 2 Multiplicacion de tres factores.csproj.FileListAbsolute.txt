@@ -1,8 +1,0 @@
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\bin\Debug\Ejercicio 2 Multiplicacion de tres factores.exe.config
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\bin\Debug\Ejercicio 2 Multiplicacion de tres factores.exe
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\bin\Debug\Ejercicio 2 Multiplicacion de tres factores.pdb
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\obj\Debug\Ejercicio 2 Multiplicacion de tres factores.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\obj\Debug\Ejercicio 2 Multiplicacion de tres factores.csproj.SuggestedBindingRedirects.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\obj\Debug\Ejercicio 2 Multiplicacion de tres factores.csproj.CoreCompileInputs.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\obj\Debug\Ejercicio 2 Multiplicacion de tres factores.exe
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 2 Multiplicacion de tres factores\obj\Debug\Ejercicio 2 Multiplicacion de tres factores.pdb

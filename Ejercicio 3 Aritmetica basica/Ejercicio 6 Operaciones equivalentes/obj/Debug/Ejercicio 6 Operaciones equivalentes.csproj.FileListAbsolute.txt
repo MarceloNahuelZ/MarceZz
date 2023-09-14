@@ -1,8 +1,0 @@
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\bin\Debug\Ejercicio 6 Operaciones equivalentes.exe.config
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\bin\Debug\Ejercicio 6 Operaciones equivalentes.exe
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\bin\Debug\Ejercicio 6 Operaciones equivalentes.pdb
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\obj\Debug\Ejercicio 6 Operaciones equivalentes.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\obj\Debug\Ejercicio 6 Operaciones equivalentes.csproj.SuggestedBindingRedirects.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\obj\Debug\Ejercicio 6 Operaciones equivalentes.csproj.CoreCompileInputs.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\obj\Debug\Ejercicio 6 Operaciones equivalentes.exe
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 6 Operaciones equivalentes\obj\Debug\Ejercicio 6 Operaciones equivalentes.pdb

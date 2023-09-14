@@ -1,8 +1,0 @@
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\bin\Debug\Ejercicio 2 Calculadora Basica.exe.config
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\bin\Debug\Ejercicio 2 Calculadora Basica.exe
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\bin\Debug\Ejercicio 2 Calculadora Basica.pdb
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\obj\Debug\Ejercicio 2 Calculadora Basica.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\obj\Debug\Ejercicio 2 Calculadora Basica.csproj.SuggestedBindingRedirects.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\obj\Debug\Ejercicio 2 Calculadora Basica.csproj.CoreCompileInputs.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\obj\Debug\Ejercicio 2 Calculadora Basica.exe
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 2 Calculadora Basica\obj\Debug\Ejercicio 2 Calculadora Basica.pdb

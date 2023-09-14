@@ -1,8 +1,0 @@
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\bin\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.exe.config
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\bin\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.exe
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\bin\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.pdb
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\obj\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\obj\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.csproj.SuggestedBindingRedirects.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\obj\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.csproj.CoreCompileInputs.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\obj\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.exe
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\Ejercicio 4 Centigrados a Kelvin y Fahrenheit\obj\Debug\Ejercicio 4 Centigrados a Kelvin y Fahrenheit.pdb

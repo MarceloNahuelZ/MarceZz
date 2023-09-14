@@ -1,8 +1,0 @@
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\obj\Debug\Ejercicio 3 Division y modulo de division.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\obj\Debug\Ejercicio 3 Division y modulo de division.csproj.SuggestedBindingRedirects.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\obj\Debug\Ejercicio 3 Division y modulo de division.csproj.CoreCompileInputs.cache
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\bin\Debug\Ejercicio 3 Division y modulo de division.exe.config
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\bin\Debug\Ejercicio 3 Division y modulo de division.exe
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\bin\Debug\Ejercicio 3 Division y modulo de division.pdb
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\obj\Debug\Ejercicio 3 Division y modulo de division.exe
-C:\Users\Marce\source\repos\MarceloNahuelZ\MarceZz\Ejercicio 3 Aritmetica basica\Ejercicio 3 Division y modulo de division\obj\Debug\Ejercicio 3 Division y modulo de division.pdb

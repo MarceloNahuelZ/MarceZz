@@ -1,8 +1,0 @@
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\bin\Debug\TIPOS DE DATOS A.exe.config
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\bin\Debug\TIPOS DE DATOS A.exe
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\bin\Debug\TIPOS DE DATOS A.pdb
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\obj\Debug\Ejercicio 1 Calcular dimensiones de esfera.csproj.AssemblyReference.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\obj\Debug\Ejercicio 1 Calcular dimensiones de esfera.csproj.SuggestedBindingRedirects.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\obj\Debug\Ejercicio 1 Calcular dimensiones de esfera.csproj.CoreCompileInputs.cache
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\obj\Debug\TIPOS DE DATOS A.exe
-C:\Users\Marce\source\repos\MarceZz\TIPOS DE DATOS A\TIPOS DE DATOS A\obj\Debug\TIPOS DE DATOS A.pdb
