@@ -1,14 +1,14 @@
 ﻿using System;
-namespace FinalProject
+namespace ProyectoFinal
 {
     public abstract class Producto
     {
         public int id { get; set; }
-        public string description { get; set; }
-        public double cost { get; set; }
-        public double priceSale { get; set; }
+        public string descripcion { get; set; }
+        public double costo { get; set; }
+        public double precioVenta { get; set; }
         public int stock { get; set; }
-        public int idUser { get; set; }
+        public int idUsuario { get; set; }
 
     }
 }

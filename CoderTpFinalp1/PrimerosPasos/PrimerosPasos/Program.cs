@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace FinalProject
+namespace ProyectoFinal
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Final Project!");
+            Console.WriteLine("Proyecto Final!");
             Console.ReadKey();
         }
     }
